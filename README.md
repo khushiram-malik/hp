@@ -1,2 +1,2 @@
 # hp
-simple blog for me
+web site for hubbtraffic.com
